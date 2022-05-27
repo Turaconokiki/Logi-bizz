@@ -6,6 +6,7 @@
 /* resetting the margin of the body to 0 */
 body{
     margin: 0;
+    margin-top:100px;
 
 }
 
@@ -17,7 +18,7 @@ main{
 /* styling the h1 */
 h1{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 150px;
     color: rgb(177, 14, 14);
 }
 
